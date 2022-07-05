@@ -3,7 +3,6 @@ node_modules/
 testSchema.json
 schema.json
 jest_0/
-lib/
 *.tgz
 generatedTypes/
 generatedTypes-CLIs/
