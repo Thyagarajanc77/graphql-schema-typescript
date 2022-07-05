@@ -1,5 +1,5 @@
 {
-  "name": "graphql-schema-typescript",
+  "name": "graphql-to-typescript",
   "version": "1.6.0",
   "description": "Generate TypeScript from GraphQL's schema type definitions",
   "main": "./lib/index.js",
@@ -14,10 +14,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dangcuuson/graphql-schema-typescript.git"
+    "url": "git+https://github.com/Thyagarajanc77/graphql-schema-typescript.git"
   },
   "keywords": [],
-  "author": "Jack Dang <jack.dang@itutorworld.com.au>",
+  "author": "Thyagarajan",
   "license": "MIT",
   "devDependencies": {
     "@graphql-tools/schema": "^8.3.1",
