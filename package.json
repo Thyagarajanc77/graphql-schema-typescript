@@ -29,7 +29,7 @@
     "@types/yargs": "^15.0.0",
     "del-cli": "^2.0.0",
     "fs-extra": "4.0.2",
-    "graphql": "^16.0.0",
+    "graphql": "^15.8.0",
     "jest": "^26.0.0",
     "ts-jest": "^26.0.0",
     "tslint": "5.8.0",
@@ -37,10 +37,10 @@
   },
   "dependencies": {
     "camelcase": "^6.2.0",
-    "yargs": "^16.0.0"
+    "yargs": "^15.8.0"
   },
   "peerDependencies": {
-    "graphql": "^16.0.0",
+    "graphql": "^15.8.0",
     "typescript": "*"
   },
   "jest": {
