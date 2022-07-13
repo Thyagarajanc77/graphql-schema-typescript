@@ -19,12 +19,10 @@ types to make it type-safed when developing GraphQL server (mainly resolvers)
 ### Generate Typescript from Schema Definition (1-1 mapping from GQL type to TypeScript)
 ### Convert GraphQL description into JSDoc, include deprecated directive
 ### [Generate TypeScripts to support writing resolvers](#type-resolvers)
-### [VSCode extension](#https://github.com/liyikun/vscode-graphql-schema-typescript) (credit to [@liyikun](https://github.com/liyikun))
-
 ## Usage
 
 ```javascript
-import { generateTypeScriptTypes } from 'graphql-schema-typescript';
+import { generateTypeScriptTypes } from 'graphql-typescript-generator';
 
 generateTypeScriptTypes(schema, outputPath, options)
     .then(() => {
